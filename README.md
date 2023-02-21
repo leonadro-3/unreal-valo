@@ -20,5 +20,14 @@ https://github.com/djhaled/Uiana-MapImporter
 https://github.com/luvyana
 
 
+설치전 필요한 것들
 
+1. .net 6.0
+2. unreal 5.0+
+3. visual studio 2019+
+
+
+다운로드 하는 법과 사용법
+
+https://www.youtube.com/watch?v=mKkzAgKEcgE
 
